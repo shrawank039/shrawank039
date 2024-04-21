@@ -1,5 +1,3 @@
-
-@@ -0,0 +1,11 @@
 - 👋 Hi, I’m Shrawan Thakur
 - 🔭 I’m currently working on a Music App similar to Spotify.
 - 👀 I’m interested in AI/ML
