@@ -1,16 +1,15 @@
-### Hi there 👋
+
+@@ -0,0 +1,11 @@
+- 👋 Hi, I’m Shrawan Thakur
+- 🔭 I’m currently working on a Music App similar to Spotify.
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Python & Rust
+- 💞️ I’m looking to collaborate on AI Agents Project and Mobile Development
+- 💬 Ask me about Mobile development & AI/ML
+- 📫 How to reach me, mail - shrawank039@gmail.com
+- ⚡ Fun fact: I don't have a CS background.
+
 
 <!--
 **shrawank039/shrawank039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
