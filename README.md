@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python & Rust
 - 💞️ I’m looking to collaborate on AI Agents Project and Mobile Development
 - 💬 Ask me about Mobile development & AI/ML
-- 📫 How to reach me, mail - shrawank039@gmail.com
+- 📫 How to reach me - shrawank039@gmail.com
 - ⚡ Fun fact: I don't have a CS background.
 
 
