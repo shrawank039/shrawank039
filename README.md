@@ -8,6 +8,62 @@
 - ⚡ Fun fact: I don't have a CS background.
 
 
+
+### Skills
+
+#### Programming Languages:
+- Java, Dart, Kotlin, XML
+- Python, Rust, JavaScript
+
+#### Mobile Development:
+- Flutter, Native Android
+- Node.js, Express.js, Django
+
+#### Database Technologies:
+- SQL, PostgreSQL
+- MongoDB, Firebase
+
+#### Version Control:
+- Git
+- GitHub
+
+#### Cloud Platforms:
+- AWS
+- Google Cloud Platform
+
+<!--#### Data Analysis and Visualization:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly-->
+
+#### Machine Learning:
+- TensorFlow
+- scikit-learn
+
+#### DevOps Tools:
+- Docker
+
+<!--#### Testing Frameworks:
+- Jest
+- Pytest
+- Selenium
+
+#### Agile Methodologies:
+- Scrum
+- Kanban-->
+
+#### UI/UX Design:
+- Figma
+
+#### Other:
+- RESTful APIs
+- Android Studio, Xcode
+- Postman
+
+
+
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrawanthakur003-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrawan-thakur003/)
