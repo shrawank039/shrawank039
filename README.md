@@ -7,72 +7,49 @@
 - 📫 Reach me @ shrawank039@gmail.com
 - ⚡ Fun fact: I don't have a CS background.
 
-
-
-### Skills
-
-#### Programming Languages:
-- Java, Dart, Kotlin, XML
-- Python, Rust, JavaScript
-
-#### Mobile Development:
-- Flutter, Native Android
-- Node.js, Express.js, Django
-
-#### Database Technologies:
-- SQL, PostgreSQL
-- MongoDB, Firebase
-
-#### Version Control:
-- Git
-- GitHub
-
-#### Cloud Platforms:
-- AWS
-- Google Cloud Platform
-
-<!--#### Data Analysis and Visualization:
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly-->
-
-#### Machine Learning:
-- TensorFlow
-- scikit-learn
-
-#### DevOps Tools:
-- Docker
-
-<!--#### Testing Frameworks:
-- Jest
-- Pytest
-- Selenium
-
-#### Agile Methodologies:
-- Scrum
-- Kanban-->
-
-#### UI/UX Design:
-- Figma
-
-#### Other:
-- RESTful APIs
-- Android Studio, Xcode
-- Postman
-
-
-
 ### Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrawanthakur003-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shrawan-thakur003/)
 [![Twitter](https://img.shields.io/badge/Twitter-codershrawan-blue?style=flat-square&logo=twitter)](https://twitter.com/coder_shrawan)
 
 
+
+### Skills
+
+#### Programming Languages:
+  -  Java, Dart, Kotlin, XML, Python, Rust, JavaScript
+
+#### Mobile Development:
+  -  Flutter, Native Android, Node.js, Express.js, Django
+
+#### Database Technologies:
+  -  SQL, PostgreSQL, MongoDB, Firebase
+
+#### Version Control:
+  -  Git, GitHub
+
+#### Cloud Platforms:
+  -  AWS, Google Cloud Platform
+
+#### Machine Learning:
+  -  TensorFlow, scikit-learn
+
+#### DevOps Tools:
+  -  Docker
+
+#### UI/UX Design:
+  -  Figma
+
+#### Other:
+  -  RESTful APIs, Android Studio, Xcode, Postman
+
+
+
+
+
 ### The goal is to complete a project in 1 streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrawank039)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shrawank039&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
