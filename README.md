@@ -20,7 +20,7 @@
   -  Java, Dart, Kotlin, XML, Python, Rust, JavaScript
 
 #### Mobile Development:
-  -  Flutter, Native Android, Node.js, Express.js, Django
+  -  Flutter, Native Android, Node.js, Express.js, FastAPI
 
 #### Database Technologies:
   -  SQL, PostgreSQL, MongoDB, Firebase
