@@ -17,7 +17,7 @@
 ### Skills
 
 #### Programming Languages:
-  -  Java, Dart, Kotlin, XML, Python, Rust, JavaScript
+  -  Java, Dart, Kotlin, Python, Rust
 
 #### Mobile Development:
   -  Flutter, Native Android, Node.js, Express.js, FastAPI
