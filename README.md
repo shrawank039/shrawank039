@@ -24,7 +24,7 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
