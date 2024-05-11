@@ -3,9 +3,9 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python & Rust
 - 💞️ I’m looking to collaborate on AI Agents Project and Mobile Development
-- 💬 Ask me about Mobile development & AI/ML
-- 📫 Reach me @ shrawank039@gmail.com
-- ⚡ Fun fact: I don't have a CS background.
+- 💬 Ask me about Mobile Development & AI/ML
+- 📫 Reach me @ Email or mentioned Socials
+- ⚡ Fun fact: I don't have a CS Degree.
 
 ### Social Media
 
