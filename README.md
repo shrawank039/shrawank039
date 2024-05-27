@@ -67,24 +67,7 @@
                             
   </p>
 
-<!--
-### Experience:
 
-Started with UI, then building Arduino, NodeMCU, and Raspberry projects.
-I have worked with the initial team for 2+ years as a Frontend Dev. 
-Then, I switched to another company as a Mobile Dev.
-I have worked with/for 10+ startups. 
-I have worked with US and Africa's clients.
-
-- Android Dev with Java and XML - 2+ yrs.
-- with Kotlin - 1+ yrs.
-- Flutter Dev for Android, iOS, Web & Windows App - 2+ yrs
-- Firebase Suite with Hosting, RDB, Storage, Auth & Others - 4+ yrs
-- GCP & AWS - 2+ years.
-- Backend with Trending Stack ERN, SQL, etc, - 1+ yrs
-- Overall - 5+ years of experience.
-- Full Stack Dev.
--->
   
 
 ### The goal is to complete a project in 1 streak
