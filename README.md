@@ -28,7 +28,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/matrix-developer.appspot.com/o/storage%2Fimages%2Ficon%2Ficons8-rust-48.png?alt=media&token=b74a99e2-eebd-4ea3-b047-e4964442ec0d" alt="Rust" width="40" height="40"/>
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android" width="40" height="40"/>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
@@ -36,9 +36,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/matrix-developer.appspot.com/o/storage%2Fimages%2Ficon%2Ficons8-express-js-48.png?alt=media&token=a8328064-d3c6-4437-9a05-f2b1af1377ea" alt="ExpressJS" width="40" height="40"/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
@@ -48,7 +46,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 <a href="https://github.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40"/>
+  <img src="https://firebasestorage.googleapis.com/v0/b/matrix-developer.appspot.com/o/storage%2Fimages%2Ficon%2Ficons8-github-64.png?alt=media&token=f7042988-db91-4592-ad78-5b471b39ce35" alt="Github" width="40" height="40"/>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
