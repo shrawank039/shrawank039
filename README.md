@@ -3,8 +3,8 @@
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python & Rust
 - 💞️ I’m looking to collaborate on the AI Agents Project
-- 💬 Ask me or Teach me about Tech
-- 📫 Reach me @ Email or mentioned Socials
+- 💬 Ask me or teach me about Tech
+- 📫 Reach me @email or mentioned Socials
 - ⚡ Fun fact: I don't have a CS Degree.
 
 ### Social Media
