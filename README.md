@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Shrawan Thakur
-- 🔭 I’m currently working on a Music App similar to Spotify.
+- 🔭 I’m working on an AI-powered Digital Card App
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python & Rust
-- 💞️ I’m looking to collaborate on AI Agents Project and Mobile Development
-- 💬 Ask me about Mobile Development & AI/ML
+- 💞️ I’m looking to collaborate on the AI Agents Project
+- 💬 Ask me or Teach me about Tech
 - 📫 Reach me @ Email or mentioned Socials
 - ⚡ Fun fact: I don't have a CS Degree.
 
