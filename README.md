@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrawan Thakur
-- 🔭 I’m working on an AI-powered Digital Card App
+- 🔭 I’m currently working on an AI-powered Digital Card App
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning Python & Rust
 - 💞️ I’m looking to collaborate on the AI Agents Project
