@@ -77,11 +77,11 @@
 ![Top Langs](https://github-readme-stats-shrawank039s-projects.vercel.app/api/top-langs/?username=shrawank039&hide_progress=false&langs_count=8&layout=compact)
 
 <!-- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrawank039" />
+<a href="https://github.com/shrawank039/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-shrawank039s-projects.vercel.app/api?username=shrawank039" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrawank039&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/shrawank039/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-shrawank039s-projects.vercel.app/api/top-langs?username=shrawank039&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ![GitHub stats](https://github-readme-stats-shrawank039s-projects.vercel.app/api?username=shrawank039\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
