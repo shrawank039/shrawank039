@@ -74,10 +74,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shrawank039&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrawank039&hide_progress=false&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats-shrawank039s-projects.vercel.app/api/top-langs/?username=shrawank039&hide_progress=false&langs_count=8&layout=compact)
 
 <!-- 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrawank039" />
 </a>
@@ -85,7 +84,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrawank039&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrawank039\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats-shrawank039s-projects.vercel.app/api?username=shrawank039\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 -->
 <!--
 **shrawank039/shrawank039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
