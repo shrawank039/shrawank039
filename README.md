@@ -74,7 +74,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shrawank039&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-shrawank039s-projects.vercel.app/api/top-langs/?username=shrawank039&hide_progress=false&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats-shrawank039s-projects.vercel.app/api/top-langs/?username=shrawank039&hide_progress=false&layout=compact)
 
 <!-- 
 <a href="https://github.com/shrawank039/github-readme-stats">
