@@ -70,7 +70,6 @@
 
   
 
-### The goal is to complete the project in 1 streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shrawank039&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
 
