@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shrawan Thakur
 - 🔭 I’m currently working on an AI-powered Digital Card App
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python & Rust
+- 🌱 I’m currently learning Next.js & Advanced AI/ML techniques
 - 💞️ I’m looking to collaborate on the AI Agents Project
 - 💬 Ask me or teach me about Tech
 - 📫 Reach me @email or mentioned Socials
@@ -18,54 +18,83 @@
 
 ### Languages and Tools:
 
-<p align="left"> 
+<p align="left">
+
+<!-- Programming Languages -->
 <a href="https://java.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+</a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+</a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://firebasestorage.googleapis.com/v0/b/matrix-developer.appspot.com/o/storage%2Fimages%2Ficon%2Ficons8-rust-48.png?alt=media&token=b74a99e2-eebd-4ea3-b047-e4964442ec0d" alt="Rust" width="40" height="40"/>
+</a>
+
+<!-- Mobile & Cross-platform -->
 <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android" width="40" height="40"/>
+</a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
+</a>
+
+<!-- Web Development -->
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextJS" width="40" height="40"/>
+</a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://firebasestorage.googleapis.com/v0/b/matrix-developer.appspot.com/o/storage%2Fimages%2Ficon%2Ficons8-express-js-48.png?alt=media&token=a8328064-d3c6-4437-9a05-f2b1af1377ea" alt="ExpressJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/>
+</a>
+
+<!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>
+</a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgresSQL" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLLite" width="40" height="40"/>
+</a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
+</a>
+
+<!-- Version Control & Collaboration -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+</a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> 
-  <img src="https://firebasestorage.googleapis.com/v0/b/matrix-developer.appspot.com/o/storage%2Fimages%2Ficon%2Ficons8-github-64.png?alt=media&token=f7042988-db91-4592-ad78-5b471b39ce35" alt="Github" width="40" height="40"/>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40"/>
+</a>
+
+<!-- Cloud & DevOps -->
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40"/>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <a href="https://figma.com" target="_blank" rel="noreferrer"> 
+</a>
+
+<!-- Design & API Tools -->
+<a href="https://figma.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLLite" width="40" height="40"/>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="40" height="40"/>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  
-                            
-  </p>
+</a>
+
+</p>
 
 
   
