@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shrawan Thakur
 - 🔭 I’m currently working on an AI-powered Digital Card App
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Next.js & Advanced AI/ML techniques
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the AI Agents Project
 - 💬 Ask me or teach me about Tech
 - 📫 Reach me @email or mentioned Socials
