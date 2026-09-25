@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Shrawan Thakur
-- 🔭 I’m currently working on an AI-powered Digital Card App
+- 🔭 I’m currently working @zex, a nextgen cybersecurity platform.
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on the AI Agents Project
 - 💬 Ask me or teach me about Tech
 - 📫 Reach me @email or mentioned Socials
 - ⚡ Fun fact: I don't have a CS Degree.
   
-<!-- - 🤔 I’m looking for help with ML Opportunity. -->
+<!-- - 🤔 I’m looking for help with AI/ML Opportunity. -->
 
 ### Social Media
 
